@@ -16,4 +16,4 @@ A basic Book Management System using HTML, Bootstrap, and JavaScript with local 
 - **JavaScript:**
 
 ## Reference
- [JavaScript BookList App | No Frameworks](https://youtu.be/JaMCxVWtW58)
+ [JavaScript BookList App | No Frameworks](https://youtu.be/JaMCxVWtW58) by Traversy Media
